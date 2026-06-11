@@ -21,15 +21,19 @@ It combines **Power BI dashboards** for interactive visualization and **ML model
 - **Database**: Excel sheets (purchases, users, medicines)  
 
 
-## 📊 PowerBI Dashboards (Scroll →)
+##  Dashboard View
 
-<div style="display: flex; overflow-x: auto; gap: 15px; padding: 10px;">
-  <img src="./powerbi-images(1).jpg" width="350" height="auto" alt="Dashboard 1">
-  <img src="./powerbi-images(2).jpg" width="350" height="auto" alt="Dashboard 2">
-  <img src="./powerbi-images(3).jpg" width="350" height="auto" alt="Dashboard 3">
-  <img src="./powerbi-images(4).jpg" width="350" height="auto" alt="Dashboard 4">
-  <img src="./powerbi-images(5).jpg" width="350" height="auto" alt="Dashboard 5">
+<div align="center">
+<div style="height:700px; overflow-y:auto; border:1px solid #d0d7de; border-radius:8px; padding:10px;">
+
+<img src="./docs/powerbi-images(1).jpg" width="100%">
+<img src="./docs/powerbi-images(2).jpg" width="100%">
+<img src="./docs/powerbi-images(3).jpg" width="100%">
+<img src="./docs/powerbi-images(4).jpg" width="100%">
+<img src="./docs/powerbi-images(5).jpg" width="100%">
+
 </div>
+</div>>
 
 
 
