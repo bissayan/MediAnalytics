@@ -35,7 +35,19 @@ It combines **Power BI dashboards** for interactive visualization and **ML model
 </div>
 </div>>
 
-
+# Data
+Only few rows of each excel sheet of the original excel workbook has been shown and the whole workbook has not been included in the repo for data privacy and security
+<div align="center">
+<div style="height:700px; overflow-y:auto; border:1px solid #d0d7de; border-radius:8px; padding:10px;">
+  
+Medicine
+<img src="./docs/medicine.png" width="100%">
+Users
+<img src="./docs/user.png" width="100%">
+Purchases
+<img src="./docs/purchase.png" width="100%">
+</div>
+</div>>
 
 
 
