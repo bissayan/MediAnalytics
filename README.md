@@ -1,5 +1,5 @@
 # MediAnalytics
-A Power BI and Python-based Data Analytics project for a B2C real Medicine Store. Combines multiple datasets (purchases, users, medicines) to perform sales insights, Pareto analysis, statistical tests, and machine learning for churn prediction and delivery expansion analysis. Interactive dashboards with DAX enable month &amp; region filters
+A Power BI and Python-based Data Analytics project for a B2C real Medicine Store. Combines multiple datasets (purchases, users, medicines) to perform sales insights, Pareto analysis, statistical tests, and machine learning for churn prediction and delivery expansion analysis. Interactive dashboards with DAX enable month &amp; region filters.
 
 ## Project Overview  
 MediAnalytics is a **data analytics and machine learning project** that integrates a one year  real b2c medicine store dataset to uncover business insights.  
